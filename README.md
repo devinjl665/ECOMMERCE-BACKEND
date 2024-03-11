@@ -6,11 +6,11 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 
 ## Demo
 
+<a href="">E-Commerce Backend Demo Vid</a>
+
+## Installation
 
 
-## Site Link
-
-<a href="">Deployed Site</a>
 
 ## Usage
 
@@ -67,3 +67,7 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 
 THEN I am able to successfully create, update, and delete data in my database
+
+## Contact Me
+
+Email: [devinjl665@gmail.com](mailto:devinjl665@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
