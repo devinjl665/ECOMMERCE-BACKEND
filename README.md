@@ -10,15 +10,15 @@ Your task is to build the back end for an e-commerce site by modifying starter c
 
 ## Installation
 
-
+In order for this application function properly you must have dotenv, sequelize, express, and mysql2 installed. Create a .env file with your MySQL database login in. Include the .env file in your .gitignore exclusions to protect your sensitive info. In your mysql terminal, create your database by entering CREATE DATABASE ecommerce_db. Once, database is created switch to it by entering USE ecommerce_db. Quit mysql. Lastly, enter "npm run seed" in the terminal. Now that the data is seeded, run "npm start" to initiate application.
 
 ## Usage
 
-
+Use Insomnia to test RESTful API implementation with HTTP methods POST, GET, GET by id, PUT and DELETE by id. Enter localhost:3001 in the Insomnia command line to connect to server. Use the endpoints "/api/categories", "/api/products", and "/api/tags" to access each table.
 
 ## Credits
 
-
+The starter code was provided by Wash U in Saint Louis Coding Bootcamp. I wrote the rest of the code with the help of Stack Overflow, W3Schools, and the coursework provided. 
 
 ## User Story
 
